@@ -1,0 +1,11 @@
+{
+  "type": "140",
+  "devicesList": {
+    "devicesInfo": {
+      "devicesId": "sssssss",
+      "id": "aaaaa",
+      "type": "running",
+      "userID": "admin"
+    }
+  }
+}

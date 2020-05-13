@@ -1,0 +1,4 @@
+#SuperManager `源于Sekiro`
+1.去掉了http调用 
+2.根据个人业务需求修改了调用方式(由http入口转为socket)
+3.移除Sekiro设备组模式
